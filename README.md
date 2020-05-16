@@ -15,6 +15,8 @@ Using this approach, you will find that most of the code the worker thread is ve
 
 Examples of this approach can be seen in this project.
 
+<https://kyaw.xyz/2020/05/16/data-processing-driven-qt-gui>
+
 Copyright (C) 2020 Kyaw Kyaw Htike @ Ali Abdul Ghafur. All rights reserved.
 
 Dr. Kyaw Kyaw Htike @ Ali Abdul Ghafur
